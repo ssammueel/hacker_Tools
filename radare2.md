@@ -17,16 +17,27 @@
 
 ![Image](https://github.com/user-attachments/assets/c3843d71-c326-4e18-81f0-989be7072ec9)
 
-#### 2.afl
+#### 3.afl
 
 - afl stands for Analyze Functions List.Running afl after analysis provides details such as function addresses, sizes, types, and names.
 
 ![Image](https://github.com/user-attachments/assets/bb0e7f49-0ef5-4c9b-abe2-a69f8a4e7234)
   
-#### 2. V
+#### 4. V
 - it will show us all the different types of views we have in the tool.
 - to navigate between the views we press the letter ‘p’.
 
 ![Image](https://github.com/user-attachments/assets/545b112c-722b-4574-85e6-97c876c72208)
 
-#### 2.#### 2.#### 2.#### 2.#### 2.#### 2.#### 2.#### 2.
+#### 5. i
+is used for information gathering about the loaded binary.
+
+Common i Commands:
+> i → Show general binary info (architecture, format, size, etc.).]  
+> ii → List imported symbols (functions from shared libraries).  
+> il → List linked libraries.  
+> is → Show symbols (functions, variables, etc.).  
+> iz → List strings found in the binary.iS → Show binary sections.  
+> iM → Display memory maps (useful when debugging).  
+
+#### 2.#### 2.#### 2.#### 2.#### 2.#### 2.#### 2.
