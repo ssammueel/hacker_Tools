@@ -57,11 +57,11 @@ This will scan ports 1 to 100 on example.com and report which ones are open.
 Here are some commonly used options with Ncat:
 
 >-l	Listen mode (wait for incoming connections).  
->-p	Specify a port number.
->-v	Verbose output (use -vv for more verbosity).
->-e	Execute a command (e.g., /bin/bash for a shell).
->-w	Set a timeout for connections.
->-u	Use UDP instead of TCP.Option	Description
->--ssl	Use SSL encryption.
->-k	Keep listening after a client disconnects.
+>-p	Specify a port number.  
+>-v	Verbose output (use -vv for more verbosity).  
+>-e	Execute a command (e.g., /bin/bash for a shell).  
+>-w	Set a timeout for connections.  
+>-u	Use UDP instead of TCP.Option	Description  
+>--ssl	Use SSL encryption.  
+>-k	Keep listening after a client disconnects.  
 
