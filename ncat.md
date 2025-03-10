@@ -4,7 +4,7 @@ it is designed to be a reliable back-end tool for **sending, receiving, ** and *
 
 - can be used in wide range of functions such as
 
-> transfer files
+> transfer files  
 > port scanning 
 > creating reverse shells
 > setting up proxies - intermediary servers used to route network traffic, enhancing anonymity and potentially bypassing restrictions
