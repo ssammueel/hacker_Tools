@@ -9,3 +9,24 @@
 ### controls
 ##### 1. ?
 - this is like help, it shows commands we have in radere2
+
+![Image](https://github.com/user-attachments/assets/2e5f5ab5-5c9b-4741-b352-78a63c86031c)
+
+#### 2. aaa
+- this shows you what steps radare2 takes. Each step has the command responsible for it inside parentheses. It looks for executable sections and looks for calls. when it finds a call, it looks for the destination of the call. Splits up basic blocks, and tries to remove all the false positives.
+
+![Image](https://github.com/user-attachments/assets/c3843d71-c326-4e18-81f0-989be7072ec9)
+
+#### 2.afl
+
+- afl stands for Analyze Functions List.Running afl after analysis provides details such as function addresses, sizes, types, and names.
+
+![Image](https://github.com/user-attachments/assets/bb0e7f49-0ef5-4c9b-abe2-a69f8a4e7234)
+  
+#### 2. V
+- it will show us all the different types of views we have in the tool.
+- to navigate between the views we press the letter ‘p’.
+
+![Image](https://github.com/user-attachments/assets/545b112c-722b-4574-85e6-97c876c72208)
+
+#### 2.#### 2.#### 2.#### 2.#### 2.#### 2.#### 2.#### 2.
