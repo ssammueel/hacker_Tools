@@ -9,9 +9,15 @@ example
 
 ![Image](https://github.com/user-attachments/assets/f9f0bf7f-d50d-4296-8963-b8c711bbdc99)
 
-in this we have used the default wordlist /usr/share/dirb/wordlists/common.txt
+in this we have used the default wordlist **/usr/share/dirb/wordlists/common.txt**
 
-you can olso use alternative wordlists
+you can olso use alternative wordlists; eithe download from external sources or write them 
+
+> exampe of wordlist
+
+[wordlist1](https://github.com/v0re/dirb/blob/master/wordlists/common.txt)      
+[wordlist2](https://github.com/drtychai/wordlists/blob/master/dirbuster/directory-list-2.3-medium.txt)
+
 
       dirb <target url> wordlist path
 
