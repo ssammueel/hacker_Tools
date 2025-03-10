@@ -23,10 +23,10 @@ you can olso use alternative wordlists; eithe download from external sources or 
 
 most commonly used options include:
 
-‘-r’: to recursively scan subdirectories
-‘-o’: to specify an output file for storing the results
-‘-c’: to specify the number of concurrent connections to use
-‘-w’: to ignore warnings
-‘-a’: to specify the user-agent string
-‘-f’: to force the use of a specific HTTP method (GET or POST)
-‘-u’: to specify the username and password for basic authentication.
+      ‘-r’: to recursively scan subdirectories
+      ‘-o’: to specify an output file for storing the results
+      ‘-c’: to specify the number of concurrent connections to use
+      ‘-w’: to ignore warnings
+      ‘-a’: to specify the user-agent string
+      ‘-f’: to force the use of a specific HTTP method (GET or POST)
+      ‘-u’: to specify the username and password for basic authentication.
